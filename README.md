@@ -2,7 +2,11 @@
 
 [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
-![](./idea.png);
+![](./idea.png)
+
+## Screenshot
+<img width="470" alt="qna-accordion screenshot" src="https://user-images.githubusercontent.com/36413759/147913000-c2ea729f-cf31-49ed-b2e2-a84c963f9fef.png">
+
 
 ## React Icons
 
